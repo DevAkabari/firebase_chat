@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1085771566503-9t3h0oi9bj1omrvv3mrtgk4bjsoi6b59.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1085771566503-9t3h0oi9bj1omrvv3mrtgk4bjsoi6b59</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1085771566503-os4coas756uu2b0kd25snml5om2ouvl0.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB4tpLgxKjCH-w-VqpDiSN-BkGonxU3_ks</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1085771566503</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.smart10</string>
+	<key>PROJECT_ID</key>
+	<string>smart-talk-d59d9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smart-talk-d59d9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1085771566503:ios:b79586a312248e6c147a82</string>
+</dict>
+</plist>

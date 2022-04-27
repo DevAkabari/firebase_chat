@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1085771566503",
+    "project_id": "smart-talk-d59d9",
+    "storage_bucket": "smart-talk-d59d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085771566503:android:8312d34a90f8ed9b147a82",
+        "android_client_info": {
+          "package_name": "com.example.smart_10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085771566503-tu16stshi6rp2h52nki6tht74og5jue0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFnXSCv1Q4eje4OWMyEkhDqU6G5DgoefM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085771566503-tu16stshi6rp2h52nki6tht74og5jue0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
